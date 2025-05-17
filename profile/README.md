@@ -6,12 +6,12 @@ We are passionate about building tools that simplify legal processes, enhance co
 
 ## Current Projects
 
-### 🚀 Docu.ng: Contract Lifecycle Management and Automation Software
+### 🚀 Docfide: Contract Lifecycle Management and Automation Software
 
-Explore the power of Docu.ng, our flagship product designed to streamline contract lifecycle management and automate tedious contract creation, signing, and approval processes. 
+Explore the power of Docfide (formerly Docu.ng), our flagship product designed to streamline contract lifecycle management and automate tedious contract creation, signing, and approval processes. 
 
-Docu.ng is now in public preview! Be sure to try it out at [docu.ng](https://docu.ng/).
-<!--Visit the [Docu.ng Repository](https://github.com/tensflare/docung) for more details.-->
+Docfide is now in public preview! Be sure to try it out at [docfide.com](https://docfide.com/).
+
 
 ### 📚 Kelsen: Legal Research Software
 

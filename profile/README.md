@@ -1,10 +1,14 @@
 ## Open infrastructure for trustworthy legal AI.
 
-Tensflare builds the plumbing that makes legal AI reliable — open-source schemas, registries, scaffolding, and validation tools that every legal system can build on.
-
-We believe legal AI won't be trustworthy until the industry shares common infrastructure for accuracy, provenance, and transparency. That infrastructure should be open.
+Tensflare builds the software that makes legal work faster, smarter, and more reliable — from AI-powered platforms for law firms and corporate legal teams to the open-source infrastructure every legal system can build on.
 
 ---
+
+### Commercial products
+
+**[Glawly](https://glawly.com)** — AI operating system for modern law firms. Autonomous legal research, document intelligence, matter management, and client collaboration. Deep Research Agent with Citation Graphs, Document Ledger, Playbooks, and practice management.
+
+**[Docfide](https://docfide.com)** — Agentic CLM for modern teams. Create, negotiate, sign, and manage contracts across Legal, Sales, HR, Finance, and Procurement in one unified workspace.
 
 ### Open-source projects
 
@@ -14,7 +18,7 @@ We believe legal AI won't be trustworthy until the industry shares common infras
 
 ### Infrastructure tools
 
-**[Duct](https://github.com/docfide/duct)** — Agentic workflow engine for legal document pipelines. Used internally by Docfide.
+**[Duct](https://github.com/docfide/duct)** — Agentic workflow engine for legal document pipelines. Powers automation across the Docfide platform.
 
 **[Condicio](https://github.com/docfide/condicio)** — Open schema standard for contract intelligence data. Powers extraction across the Docfide platform.
 
